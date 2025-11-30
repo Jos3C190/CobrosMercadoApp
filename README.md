@@ -2,6 +2,12 @@
 
 Aplicación Android para la gestión y recolección de pagos en mercados, diseñada para operar completamente offline con base de datos local SQLite y mapas integrados de El Salvador.
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://i.ibb.co/qLctSXs5/imagen-2025-11-30-173524646.png" width="25%">
+  <img src="https://i.ibb.co/k2jzrT4Z/imagen-2025-11-30-173920636.png" width="25%">
+    <img src="https://i.ibb.co/4nnwQ1t5/imagen-2025-11-30-174029515.png" width="25%">
+</div>
+
 ## 🌟 Características Principales
 
 - **Arquitectura Offline-First**: Operación completa sin conexión a internet usando Room SQLite y mapas embebidos
