@@ -1,0 +1,54 @@
+# Android/IntelliJ
+*.iml
+.gradle/
+local.properties
+.DS_Store
+
+# Idea
+/.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Build
+/build/
+/app/build/
+/**/build/
+
+# Kotlin Compiler & KSP
+.kotlinc/
+.kotlin/
+kotlin-js-store/
+app/build/kspCaches/
+app/build/generated/
+
+# External build
+.externalNativeBuild
+.cxx
+
+# Captures
+/captures/
+
+# Misc
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+*.tmp
+
+# Gradle cache
+**/.gradle/
+gradle-app.setting
+
+# Jetpack Compose previews
+/previews/
+
+# Signing
+**/signing-config.json
+
+# OS-specific
+Thumbs.db
